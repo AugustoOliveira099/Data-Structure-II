@@ -18,6 +18,9 @@ O dataset gerado a partir dos códigos não possui apenas aeroportos nacionais, 
 
 Todas as imagens geradas nessa analise estão disponíveis na pasta "images" para donwload, assim como os datasets utilizados, que estão na pasta "data".
 
+A seguir um vídeo da explicação do que foi feito:
+https://www.loom.com/share/e888d8f3b0c947e4bb5900143ebbb73d
+
 
 # 1 - Assortatividade
 
