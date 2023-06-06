@@ -27,8 +27,8 @@ A primeira análise realizada foi a de assortatividade, que refere-se a conexão
 
 Ao utilizar a função nxviz.attribute_assortativity_coefficient() com a rede de voos brasileiros, foi gerado um coeficiente com valor de $0.37291232237638355$.
 
-- $-1 <= assortividade < 0 \Rightarrow$ A rede é assortativa
-- $0 <= assortividade <= 1 \Rightarrow$ A rede é disassortativa
+- $1 >= assortatividade >= 0 \Rightarrow$ A rede é assortativa
+- $0 > assortatividade >= -1 \Rightarrow$ A rede é disassortativa
 
 Logo, o resultado mostra que é uma rede assortativa. Isso significa que os aeroportos de uma mesma região tendem a fazer voos entre si.
 
