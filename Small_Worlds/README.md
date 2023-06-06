@@ -123,7 +123,7 @@ Ao pesquisar os preços dos dois primeiros cenários, não foi encontrado nenhum
 Já para os dois cenários seguintes não é possível verificar os preços, uma vez que a base aérea de Anápolos é da FAB(Força Aérea Brasileira) e não aparece nos sites de pesquisa.
 
 
-# 5 - Coeficiente de clustering
+# 5 - Coeficiente de clustering médio
 
 Ao calcular o clutering médio da rede de voos brasileira, por meio da função nxviz.average_clustering(), obtemos o resultado de $0.6298820670024339$.
 
