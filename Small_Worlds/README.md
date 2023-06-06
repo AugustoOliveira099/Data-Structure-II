@@ -93,10 +93,10 @@ Para o "Componente 1", temos os seguintes resultados para os $505$ elementos:
 
 Nesta etapa, iremos simular algumas viagens entre as regiões do Brasil, levando em consideração a conexão entre as regiões e os aeroportos que existem no dataset. As viagens que devemos simular são as seguintes:
 
-Cidade no Norte (1) e uma cidade no Sul (2)
-Cidade no Sul (2) e uma cidade no Nordeste (3)
-Cidade no Nordeste (3) e uma cidade no Centro-Oeste (4)
-Cidade no Centro-Oeste (4) e uma cidade no Sudeste (5)
+- Cidade no Norte (1) e uma cidade no Sul (2)
+- Cidade no Sul (2) e uma cidade no Nordeste (3)
+- Cidade no Nordeste (3) e uma cidade no Centro-Oeste (4)
+- Cidade no Centro-Oeste (4) e uma cidade no Sudeste (5)
 
 Para analizar o caminho mais curto para chegar ao destino, utilizaremos a função nx.shortest_path(), que nos auxiliará mostrando o nome de cada um dos aeroportos que será visitado durante a viagem.
 
