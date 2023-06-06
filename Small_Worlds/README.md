@@ -6,7 +6,9 @@ DCA0209 - ALGORITMOS E ESTRUTURA DE DADOS II
 
 Trabalho 02 - Unidade 02
 
-Por: José Augusto Agripino de Oliveira
+Doscente: Ivanovitch Medeiros Dantas da Silva
+
+Discente: José Augusto Agripino de Oliveira
 
 Neste repositório estaremos abordando uma prática realizada na disciplina de Algoritmos e Estrutura de Dados II (DCA0209), disciplina do Curso de Engenharia de Computação da Universidade Federal do Rio Grande do Norte, por orientação do professor [Ivanovitch Medeiros Dantas da Silva](https://github.com/ivanovitchm).
 
