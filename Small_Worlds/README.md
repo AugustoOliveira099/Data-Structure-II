@@ -83,11 +83,11 @@ Ao executar o código, obtemos que existem 6 componentes, no qual um deles possu
 
 Para o "Componente 1", temos os seguintes resultados para os $505$ elementos:
 
-- Norte: $24.9505%$
-- Nordeste: $18.8119%$
-- Sul: $15.0495%$
-- Sudeste: $23.3663%$
-- Centro-Oeste: $17.8218%$
+- Norte: $24.9505$%
+- Nordeste: $18.8119$%
+- Sul: $15.0495$%
+- Sudeste: $23.3663$%
+- Centro-Oeste: $17.8218$%
 
 # 4 - Caminho mais curto
 
