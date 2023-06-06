@@ -6,7 +6,7 @@ DCA0209 - ALGORITMOS E ESTRUTURA DE DADOS II
 
 Trabalho 02 - Unidade 02
 
-Doscente: Ivanovitch Medeiros Dantas da Silva
+Docente: Ivanovitch Medeiros Dantas da Silva
 
 Discente: José Augusto Agripino de Oliveira
 
