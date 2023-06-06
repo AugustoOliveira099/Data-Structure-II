@@ -129,9 +129,7 @@ Ao calcular o clutering médio da rede de voos brasileira, por meio da função 
 
 Como: 
 
-\begin{equation}
-  0 <= Clustering_Médio <= 1
-\end{equation}
+$0 <=$ Clustering_Médio $<= 1$
 
 Isso significa que a rede é bem conectada, já que passa de $0,5$, mas existem alguns nós com mais conexões que outros.
 
