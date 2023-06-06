@@ -19,7 +19,7 @@ O dataset gerado a partir dos códigos não possui apenas aeroportos nacionais, 
 Todas as imagens geradas nessa analise estão disponíveis na pasta "images" para donwload, assim como os datasets utilizados, que estão na pasta "data".
 
 
-# 1 - Assotatividade
+# 1 - Assortatividade
 
 A primeira análise realizada foi a de assortatividade, que refere-se a conexão entre semelhantes por meio de alguma propriedade do nó. A análise feita foi com base nas regiões do Brasil. O gráfico abaixo mostra como a rede se liga.
 
